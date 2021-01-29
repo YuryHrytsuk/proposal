@@ -1,8 +1,9 @@
-# proposal of new package hierarchy
+# Proposal of new directory hierarchy
 
 ### Rationale
 * Clear imports
-* Avoid duplicate problems
+* Clear up the root directory
 * Separate code from configuration files
+* Avoid duplicate problems
 
-**Note:** An illustrative example can be found in `proposal/certain_service/app.py`
+**Note:** An illustrative example can be found in `./src/certain_service/app.py`
